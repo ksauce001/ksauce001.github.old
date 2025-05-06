@@ -1,5 +1,5 @@
 ---
-title: "Expedition 33 Game Review
+title: "Expedition 33 Game Review"
 date: 2025-05-05 07:00:00 +0800
 categories: 
   - Game Review
@@ -11,4 +11,4 @@ tags:
   - blog
 published: true
 ---
-![banner-image|640](assets/Game-Review-img/Expedition-33/1.png)
+![banner-image|640](/assets/Game-Review-img/Expedition-33/1.png)
