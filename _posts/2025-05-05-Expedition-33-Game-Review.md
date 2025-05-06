@@ -10,5 +10,6 @@ tags:
   - PS5
   - blog
 published: true
+
 ---
-![banner-image|640](/assets/Game-Review-img/Expedition-33/1.png)
+![img](/assets/Game-Review-img/Expedition-33/1.png)
