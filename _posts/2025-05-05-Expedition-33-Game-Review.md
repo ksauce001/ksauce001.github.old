@@ -40,7 +40,7 @@ There are few pieces that you must collect to understand the previous expedition
 things are not well explain you will have to piece to get the story as you advance further. Overage its beautifully and creatively
 well written story.
 
-Rating: 9 out 10
+
 
 ### Gameplay
 If you have play Persona 5, Final Fantasy, and Lies of P. Then know you are in the world of hurt. This game is a turn-based game
@@ -53,7 +53,7 @@ and more. You will have endless combination of pictos, which are essentially buf
 Unique skills pertaining and overall you will not be bored trying different combos. So in this incredible game you will either be 
 rewarded for your quick reaction or suffer until you beat the enemy at the inch of your life.
 
-Rating: 9 out of 10
+
 
 ### Music Score
 A memorizing melody and banger soundtrack from this game keeps you hook and loving every minute of the game. 
@@ -62,16 +62,15 @@ arching story and the world around the characters. You will not be disappointed 
 boss battle. You have the option to collect music score within the game and listen to them while you rest at camps.
 You can just leave it in the background and listen to most song over and over while doing chores. 
 
-Rating: 10 out of 10
+
 
 ### Art & Design
 Just as the game is incredible from the world to the character design to skills effects is simply astonishing. The Sandfall team
 put in a lot of work making this visually appealing while displaying incredible style of how breathtaking the scenery and the scene
 are in the game. While it is well crafted, it is not totally refine. There are few issue during cutscene there certain part of
-the character model (eg. the hair) clips through their body making it look weird. However, it is a minor flaw that should not 
+the character model (e.g. the hair) clips through their body making it look weird. However, it is a minor flaw that should not 
 detract or make the game unplayable.
 
-Rating: 8 out of 10
 
-### 
+### Conclusion
 
