@@ -21,24 +21,35 @@ game you should pick up and try it for yourself.
 
 
 ## Plot
-The game is inspired by Belle Époque France, where a handful of people live on a large island in the middle of the ocean
-called Lumiere. Each year, an unknown entity that is known by the name "the Paintress" would emerge from her slumber off in the distant,
-and magically change the number on the monolith. As the number is lowered by one, those of that age would simply vanish this event would be
-known as the Gommage. So volunteers would set out and head to the mainland to end the Paintress before she would paint a new number.
-This time it is Expedition 33, is hoping to set forth and end things once and for on. 
+Clair Obscur Expedition 33 unfolds in a hauntingly beautiful world inspired by the elegance and melancholy of Belle Époque-era France.
+Set on an isolated enigmatic island of 'Lumière', life here is governed not by ravage of time, but by a single, towering monolith - its
+surface marked by a shifting number that determines the fate of all. 
+
+Each year, without fail, a mysterious entity known only as 'the Paintress' awakens from her distant slumber. With a wave of her hand, she alters
+the monolith, lowering the number by one. As it changes, those whose ages matches the new number quietly, inexplicably vanish.
+The phenomenon is called the 'Gommage' - a silent erasure, as though lives are being brushed away like pigments from a canvas.
+
+In a desperate attempt to break the cycle, the island's bravest - or perhaps most desperate volunteers embark on a perilous journey
+to the mainland, hoping to confront and stop the Paintress before the next number is painter. Many before had tried, none have ever returned.
+
+Now, as the monolith falls on the thirty-third mark, Expedition 33 is assembled and prepare on their final expedition to not just
+reach the mainland, but to unearth the truths buried beneath centuries of mystery, and hopefully to end the Gommage once and for all.
 
 > May Contain Spoilers.
 {: .prompt-warning}
 
 
 ### Story
-The game provides a rich and wonderful obscure mystery that leave you to find out wondering how and what happen. Each character
-that you play with have their own story to tell, and what they have lost due to the Gommage event. As you talk to all the
-inhabitants and those you met along the journey, you may be left confused and question more on how this came to be. As this
-game will make it so that you will be heavily invested in the story of each member, their enemies, and the world they live in.
-There are few pieces that you must collect to understand the previous expedition and what had happen to them. Though some
-things are not well explain you will have to piece to get the story as you advance further. Overage its beautifully and creatively
-well written story.
+The game weaves a rich and evocative tapestry of mystery, inviting you to uncover its dark secrets at your own pace.
+Clair Obscur doesn't hand you the answer, it compels you to explore and seek them. Each character you encounter carries a personal story
+shaped by the haunting Gommage. You will travel with them, listen to their stories, reasons and motivation on this expedition. The emotional
+depth of your companions and even those you meet briefly along the way, will leave you questioning not just what happened, but why.
+
+As you explore the world, you'll find fragments of the past echoes of the expeditions that came before yours. Some buried deep, while
+others deliberately obscured, challenging you to connect the dots. The narrative doesn't reveal anything outright instead, it rewards
+the explorer with curiosity to unravel is mystery.
+
+This is a world where mystery breathes, and the line between clarity and shadow is exquisitely blurred.
 
 ![img](/assets/Game-Review-img/Expedition-33/4.jpg)
 
