@@ -54,15 +54,21 @@ This is a world where mystery breathes, and the line between clarity and shadow 
 ![img](/assets/Game-Review-img/Expedition-33/4.jpg)
 
 ### Gameplay
-If you have play Persona 5, Final Fantasy, and Lies of P. Then know you are in the world of hurt. This game is a turn-based game
-that leaves you either frustrated or extremely excited for getting those inputs timing correct. Yes, you will not have to wait for
-the enemy turn, you will be forced to react to the enemy attacking you. With dodging and parrying, as well as other controls as 
-you advance in the game. The mechanics of dodging and parrying is roughly similar to Lies of P where you may feel there is
-an input delay. However, if you listen to the audios ques you may have a higher chance of pulling off then just staring and hoping 
-you press the button at the right time. You can also shoot enemies, use items, different skills based on the character you have in the party,
-and more. You will have endless combination of pictos, which are essentially buffs and effects that can make or break your characters.
-Unique skills pertaining and overall you will not be bored trying different combos. So in this incredible game you will either be 
-rewarded for your quick reaction or suffer until you beat the enemy at the inch of your life.
+If you've played Persona 5, Final Fantasy, or Lies of P, prepare yourself because Clair Obscur Expedition 33 will test your
+reflexes, patience, and tactical instincts in equal measure. This is not your typical turn-based RPG. While it follows a structured,
+turn-base format, combat is anything but passive. You won't just sit idly and wait for your enemy to strike you'll have to react,
+and react fast.
+
+Every encounter demands good timing, precision, and a sharp ear. Dodging and parrying are integral to survival, borrowing from games like Lies of P or Sekiro.
+Yes, there may be moments where input feels tight or even delayed, but listen carefully. Audio cues, not just visual ones, are the key to mastering the rhythm of battle.
+
+Your toolkit is as deep as it is dangerous. You can shoot enemies, activate items, chain character specific skills, and manipulate
+the flow of battle through countless combinations of 'Pictos'. Each party member brings a distinct play-style and unique skills to the table,
+making every composition feel fresh and strategic.
+
+This is a game where victory feels sweet, where perfect parries can turn the tide, and one misstep might mean scraping through by
+the skin of your teeth. It's brutal, rewarding, and endlessly engaging. Whether you're mastering the art of timing or crafting the ultimate Picto
+synergy, Clair Obscur ensure you one thing: you won't be bored.
 
 ![img](/assets/Game-Review-img/Expedition-33/3.jpg){: w="700" h="400"}
 
