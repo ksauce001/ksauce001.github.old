@@ -22,7 +22,7 @@ game you should pick up and try it for yourself.
 
 ## Plot
 Clair Obscur Expedition 33 unfolds in a hauntingly beautiful world inspired by the elegance and melancholy of Belle Époque-era France.
-Set on an isolated enigmatic island of 'Lumière', life here is governed not by ravage of time, but by a single, towering monolith - its
+Set on an isolated enigmatic island of 'Lumière', life here is governed by a single, towering monolith - its
 surface marked by a shifting number that determines the fate of all. 
 
 Each year, without fail, a mysterious entity known only as 'the Paintress' awakens from her distant slumber. With a wave of her hand, she alters
