@@ -99,7 +99,7 @@ In the grand scheme, these minor imperfection are easily overshadowed by the she
 ![img](/assets/Game-Review-img/Expedition-33/2.jpg)
 ### Verdict 
 Clair Obscur Expedition 33 delivers a riveting, high-energy experience that shatters expectations and redefines what a turn-based RPG can be.
-If you're a fan of tactical depth mixed with real-time reflex-driven action, this game is an absolute must play. But be warned, it's not for the faint of heart.
+If you're a fan of tactical depth mixed with real-time reflex-driven action, this game is an absolute must-play. But be warned, it's not for the faint of heart.
 This world demands your focus, punishes hesitation, and rewards mastery.
 
 You'll either rise to the challenge and grow stronger with every hard-fought battle, or find yourself overwhelmed by the beautiful,
