@@ -40,7 +40,7 @@ There are few pieces that you must collect to understand the previous expedition
 things are not well explain you will have to piece to get the story as you advance further. Overage its beautifully and creatively
 well written story.
 
-![img](/assets/Game-Review-img/Expedition-33/5.jpg)
+![img](/assets/Game-Review-img/Expedition-33/4.jpg)
 
 ### Gameplay
 If you have play Persona 5, Final Fantasy, and Lies of P. Then know you are in the world of hurt. This game is a turn-based game
@@ -53,7 +53,7 @@ and more. You will have endless combination of pictos, which are essentially buf
 Unique skills pertaining and overall you will not be bored trying different combos. So in this incredible game you will either be 
 rewarded for your quick reaction or suffer until you beat the enemy at the inch of your life.
 
-![img](/assets/Game-Review-img/Expedition-33/3.jpg){: w="700" h="400"}{: .left}![img](/assets/Game-Review-img/Expedition-33/4.jpg){: w="700" h="400"}{: .right}
+![img](/assets/Game-Review-img/Expedition-33/3.jpg){: w="700" h="400"}
 
 ### Music Score
 A memorizing melody and banger soundtrack from this game keeps you hook and loving every minute of the game. 
