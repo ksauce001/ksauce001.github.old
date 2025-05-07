@@ -14,7 +14,7 @@ description: Go on an epic journey with Expedition 33 and battle your way throug
 ---
 ![img](/assets/Game-Review-img/Expedition-33/1.png)
 
-Welcome to the world of Clair Obscur Expedition 33 by Sandfall Interactive studio. With only a small team of they have
+Welcome to the world of Clair Obscur Expedition 33 by Sandal Interactive studio. With only a small team of they have
 created a masterpiece worthy of a triple A title, and I do not mean that lightly. This is a different style turn based
 game and not for those who think they can take it easy. Here I will give you my take and tell you why this is definitely a 
 game you should pick up and try it for yourself. 
@@ -28,7 +28,7 @@ known as the Gommage. So volunteers would set out and head to the mainland to en
 This time it is Expedition 33, is hoping to set forth and end things once and for on. 
 
 > May Contain Spoilers.
-{: .prompt-tip}
+{: .prompt-warning}
 
 
 ### Story
@@ -65,6 +65,13 @@ You can just leave it in the background and listen to most song over and over wh
 Rating: 10 out of 10
 
 ### Art & Design
+Just as the game is incredible from the world to the character design to skills effects is simply astonishing. The Sandfall team
+put in a lot of work making this visually appealing while displaying incredible style of how breathtaking the scenery and the scene
+are in the game. While it is well crafted, it is not totally refine. There are few issue during cutscene there certain part of
+the character model (eg. the hair) clips through their body making it look weird. However, it is a minor flaw that should not 
+detract or make the game unplayable.
+
+Rating: 8 out of 10
 
 ### 
 
