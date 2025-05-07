@@ -40,7 +40,7 @@ There are few pieces that you must collect to understand the previous expedition
 things are not well explain you will have to piece to get the story as you advance further. Overage its beautifully and creatively
 well written story.
 
-
+![img](/assets/Game-Review-img/Expedition-33/5.jpg)
 
 ### Gameplay
 If you have play Persona 5, Final Fantasy, and Lies of P. Then know you are in the world of hurt. This game is a turn-based game
@@ -53,7 +53,8 @@ and more. You will have endless combination of pictos, which are essentially buf
 Unique skills pertaining and overall you will not be bored trying different combos. So in this incredible game you will either be 
 rewarded for your quick reaction or suffer until you beat the enemy at the inch of your life.
 
-
+![img](/assets/Game-Review-img/Expedition-33/3.jpg){: w="700" h="400"}{: .left}
+![img](/assets/Game-Review-img/Expedition-33/4.jpg){: w="700" h="400"}{: .right}
 
 ### Music Score
 A memorizing melody and banger soundtrack from this game keeps you hook and loving every minute of the game. 
@@ -71,6 +72,25 @@ are in the game. While it is well crafted, it is not totally refine. There are f
 the character model (e.g. the hair) clips through their body making it look weird. However, it is a minor flaw that should not 
 detract or make the game unplayable.
 
+![img](/assets/Game-Review-img/Expedition-33/2.jpg)
+### Verdict 
+Riveting and exciting hype that blows gamer expectation out of the waters. If you enjoy a good real-time strategy turn-based action game,
+then this is a must pick game for you. However, it is not for the faint of hearts. You either must get good or fall into the despair as journey
+further into this beautiful and captivating world. With endless combination of skills and pictos building you will not be disappointed.
 
-### Conclusion
+###  Score: 9.5/10
 
+--------------------------------------------------
+
+### Pros:
+
+ - Real time action, that keeps players engage in combat 
+ - Epic storyline, music, and visual that leaves you in awe
+ - Unique style of skills and pictos, craft different style of combos for your characters.
+ - Large open world to explore and many secrets to discover
+ - Three difficulty options for beginner, those who love a good challenge, or in-between.
+
+### Cons:
+ - Plot may leave players confuse if they choose to skip a lot of dialogue from various sources. 
+ - Require some players to get use to dodging, parrying, jumping, and/or combination of all three.
+ - Minor character model texture flaws. 
