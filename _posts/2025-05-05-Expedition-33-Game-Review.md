@@ -14,7 +14,7 @@ description: Go on an epic journey with Expedition 33 and battle your way throug
 ---
 ![img](/assets/Game-Review-img/Expedition-33/1.png)
 
-Welcome to the world of Clair Obscur Expedition 33 by Sandfall Interactive studio. With only a small team of they have
+Welcome to the world of Clair Obscur Expedition 33 by Sandfall Interactive studio. With only a small team of 30, they have
 created a masterpiece worthy of a triple A title, and I do not mean that lightly. This is a different style turn based
 game and not for those who think they can take it easy. Here I will give you my take and tell you why this is definitely a 
 game you should pick up and try it for yourself. 
