@@ -53,8 +53,7 @@ and more. You will have endless combination of pictos, which are essentially buf
 Unique skills pertaining and overall you will not be bored trying different combos. So in this incredible game you will either be 
 rewarded for your quick reaction or suffer until you beat the enemy at the inch of your life.
 
-![img](/assets/Game-Review-img/Expedition-33/3.jpg){: w="700" h="400"}{: .left}
-![img](/assets/Game-Review-img/Expedition-33/4.jpg){: w="700" h="400"}{: .right}
+![img](/assets/Game-Review-img/Expedition-33/3.jpg){: w="700" h="400"}{: .left}![img](/assets/Game-Review-img/Expedition-33/4.jpg){: w="700" h="400"}{: .right}
 
 ### Music Score
 A memorizing melody and banger soundtrack from this game keeps you hook and loving every minute of the game. 
