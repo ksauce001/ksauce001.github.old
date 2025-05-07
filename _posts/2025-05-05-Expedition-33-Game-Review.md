@@ -73,26 +73,37 @@ synergy, Clair Obscur ensure you one thing: you won't be bored.
 ![img](/assets/Game-Review-img/Expedition-33/3.jpg){: w="700" h="400"}
 
 ### Music Score
-A memorizing melody and banger soundtrack from this game keeps you hook and loving every minute of the game. 
-With melancholy and soft tone to an exciting hype music just draws your attention to pay attention to overall 
-arching story and the world around the characters. You will not be disappointed how well the music flow from cutscenes to 
-boss battle. You have the option to collect music score within the game and listen to them while you rest at camps.
-You can just leave it in the background and listen to most song over and over while doing chores. 
+The soundtrack of Clair Obscur Expedition 33 is nothing short of mesmerizing and captivating. A masterful blend of melancholic melodies and 
+pulse-pounding anthems that elevate every moment of the journey. From tender, haunting piano pieces that underscore the quiet tragedies of its characters,
+to adrenaline-fuel tracks that ignite during boss battle, the music seamlessly guides your emotions through the highs and lows of the story.
 
+Each track is composed with the intention of drawing you deeper into the world Lumière. As you progress, you'll have the chance
+to collect musical scores scattered throughout the world. At campfires, you can revisit these track, and listening to it as much as you like.
+Many players will find themselves leaving the soundtrack running long after they've set the controller down. 
+
+It's not just a soundtrack, it's a soul that binds the world together.
 
 
 ### Art & Design
-Just as the game is incredible from the world to the character design to skills effects is simply astonishing. The Sandfall team
-put in a lot of work making this visually appealing while displaying incredible style of how breathtaking the scenery and the scene
-are in the game. While it is well crafted, it is not totally refine. There are few issue during cutscene there certain part of
-the character model (e.g. the hair) clips through their body making it look weird. However, it is a minor flaw that should not 
-detract or make the game unplayable.
+From its stunning world design to its intricate character models and dazzling skill effects, the game is a visual triumph.
+The team at Sandfall Studio has clearly poured their passion into every frame, crafting a game that is not only stylistically bold
+but emotionally resonant. The environments are breathtaking, often resembling living paintings, and each scene is delivered with a cinematic
+flair that elevates the experience.
+
+While the artistry is undeniable, the presentation isn't without its minor blemishes. During some cutscenes, small visual issues, such as 
+hair clipping through character models, can momentarily disrupt the immersion. These are brief and infrequent, and though noticeable 
+to keen eyes, they never compromise the overall quality of enjoyment of the game.
+
+In the grand scheme, these minor imperfection are easily overshadowed by the sheer beauty and creativity of the game.
 
 ![img](/assets/Game-Review-img/Expedition-33/2.jpg)
 ### Verdict 
-Riveting and exciting hype that blows gamer expectation out of the waters. If you enjoy a good real-time strategy turn-based action game,
-then this is a must pick game for you. However, it is not for the faint of hearts. You either must get good or fall into the despair as journey
-further into this beautiful and captivating world. With endless combination of skills and pictos building you will not be disappointed.
+Clair Obscur Expedition 33 delivers a riveting, high-energy experience that shatters expectations and redefines what a turn-based RPG can be.
+If you're a fan of tactical depth mixed with real-time reflex-driven action, this game is an absolute must play. But be warned, it's not for the faint of heart.
+This world demands your focus, punishes hesitation, and rewards mastery.
+
+You'll either rise to the challenge and grow stronger with every hard-fought battle, or find yourself overwhelmed by the beautiful,
+yet merciless journey ahead. One thing is certain: you will not be disappointed. As those who fall we continue.
 
 ###  Score: 9.5/10
 
