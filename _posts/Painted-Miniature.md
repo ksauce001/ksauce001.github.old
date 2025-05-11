@@ -8,7 +8,7 @@ tags:
   - Photos
   - Painted Miniature
 ---
-I began painting around late of 2021 and continuing today. Since then I have learned under many mentors and friends. 
+I began painting around late of 2021 and continuing today. Since then, I have learned under many mentors and friends. 
 
 ### Achievement: 
  LVO (Las Vegas Open):
