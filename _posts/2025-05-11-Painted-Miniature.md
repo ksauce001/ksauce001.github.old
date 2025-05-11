@@ -50,10 +50,6 @@ I began painting around late of 2021 and continuing today. Since then, I have le
   transition: transform 0.2s ease;
 }
 
-.instagram-grid img:hover {
-  transform: scale(1.05);
-}
-
 @media (min-width: 992px) {
   .instagram-grid a {
     flex-basis: calc(33.333% - 1rem);
