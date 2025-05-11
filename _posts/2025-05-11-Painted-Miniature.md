@@ -22,8 +22,9 @@ I began painting around late of 2021 and continuing today. Since then, I have le
   
  Adepticon Golden Demo:
   - Finalist Pin in Duel
-  - Testv1.1
+  - Testv1.2
 
+{% raw %}
 <style>
 .instagram-grid {
   display: grid;
@@ -83,3 +84,4 @@ I began painting around late of 2021 and continuing today. Since then, I have le
     <img src="/assets/Paintings-img/Tomoe.png" alt="IG photo 6" />
   </a>
 </div>
+{% endraw %}
