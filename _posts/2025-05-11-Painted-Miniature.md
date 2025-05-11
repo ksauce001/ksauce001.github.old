@@ -23,33 +23,45 @@ I began painting around late of 2021 and continuing today. Since then, I have le
  Adepticon Golden Demo:
   - Finalist Pin in Duel
 
+
 <style>
 .instagram-grid {
-  display: flex;
-  flex-wrap: wrap;
+  display: grid;
+  grid-template-columns: repeat(3, 1fr); /* force 3 columns */
   gap: 1rem;
   margin-top: 1rem;
 }
+
 .instagram-grid a {
-  width: calc(33.333% - 0.67rem);
+  display: block;                /* Ensure it's treated as a block-level grid item */
+  width: 100%;
+  height: 250px;
+  max-width: 600px;
+  overflow: hidden;
+  border-radius: 8px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.15);
+  text-decoration: none;
 }
+
 .instagram-grid img {
   width: 100%;
-  border-radius: 8px;
-  box-shadow: 0 2px 8px rgba(0,0,0,0.1);
-  transition: transform 0.2s ease;
+  height: 100%;
+  object-fit: cover;
+  display: block;               /* Prevent inline spacing bugs */
 }
+
 .instagram-grid img:hover {
   transform: scale(1.03);
 }
 @media (max-width: 768px) {
-  .instagram-grid a {
-    width: calc(50% - 0.5rem);
+  .instagram-grid {
+    grid-template-columns: repeat(2, 1fr);
   }
 }
-@media (max-width: 480px) {
-  .instagram-grid a {
-    width: 100%;
+}
+@media (max-width: 600px) {
+  .instagram-grid {
+    grid-template-columns: 1fr;
   }
 }
 </style>
