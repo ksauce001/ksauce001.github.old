@@ -22,10 +22,7 @@ I began painting around late of 2021 and continuing today. Since then, I have le
   
  Adepticon Golden Demo:
   - Finalist Pin in Duel
-  
 
-
-## Clickable Images in Columns of 3 (Uniform 500x500 Display)
 
 <style>
   .img-column-container {
@@ -66,7 +63,7 @@ I began painting around late of 2021 and continuing today. Since then, I have le
 <div class="img-column-container">
   <div class="img-box">
     <a href="https://www.instagram.com/p/DI2X7-FTWv4/">
-      <img src="/assets/Paintings-img/Widowmaker.jpg" alt="Widowmaker" />
+      <img src="{{ site.baseurl }}/assets/Paintings-img/Widowmaker.jpg" alt="Widowmaker" />
     </a>
   </div>
   <div class="img-box">
