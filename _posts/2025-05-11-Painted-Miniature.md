@@ -52,7 +52,7 @@ I began painting around late of 2021 and continuing today. Since then, I have le
 </style>
 
 <div class="instagram-grid">
-  <a href="https://www.instagram.com/p/DI2X7-FTWv4/">
+  <a href="https://www.instagram.com/p/DI2X7-FTWv4/" target="_blank" rel="noopener noreferrer">
     <img src="/assets/Paintings-img/Widowmaker.jpg" alt="IG photo 1" />
   </a>
   <a href="https://www.instagram.com/p/DD7NYHDJB6V/" target="_blank" rel="noopener noreferrer">
