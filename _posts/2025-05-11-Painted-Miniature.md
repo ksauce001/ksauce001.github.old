@@ -25,47 +25,29 @@ I began painting around late of 2021 and continuing today. Since then, I have le
 
 <style>
 .instagram-grid {
-  display: flex;
-  flex-wrap: wrap;
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  max-width: 2100px;
+  margin: auto;
   gap: 1rem;
-  justify-content: center;
-  margin-top: 1rem;
+  padding-top: 1rem;
 }
 
 .instagram-grid a {
-  width: 700px;
+  display: block;
+  width: 100%;
+  max-width: 700px;
   height: 500px;
-  max-width: 100%;
   overflow: hidden;
   border-radius: 8px;
   box-shadow: 0 2px 8px rgba(0, 0, 0, 0.15);
-  display: block;
-  flex-grow: 1;
+  margin: 0 auto;
 }
 
 .instagram-grid img {
   width: 100%;
   height: 100%;
   object-fit: cover;
-  transition: transform 0.2s ease;
-}
-
-@media (min-width: 992px) {
-  .instagram-grid a {
-    flex-basis: calc(33.333% - 1rem);
-  }
-}
-
-@media (max-width: 991px) {
-  .instagram-grid a {
-    flex-basis: calc(50% - 1rem);
-  }
-}
-
-@media (max-width: 600px) {
-  .instagram-grid a {
-    flex-basis: 100%;
-  }
 }
 </style>
 
@@ -85,7 +67,7 @@ I began painting around late of 2021 and continuing today. Since then, I have le
   <a href="https://www.instagram.com/p/Cr_cdNzpd2T/" target="_blank" rel="noopener noreferrer">
     <img src="/assets/Paintings-img/Byakko.png" alt="IG photo 5" />
   </a>
-  <a href="https://www.instagram.com/p/CekG7x0p5si/" target="_blank" rel="noopener noreferrer">
+  <a href="https://www.instagram.com/p/CekG7x0p5si/" target="" rel="">
     <img src="/assets/Paintings-img/Tomoe.png" alt="IG photo 6" />
   </a>
 </div>
