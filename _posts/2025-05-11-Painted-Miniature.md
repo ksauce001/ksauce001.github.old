@@ -22,14 +22,14 @@ I began painting around late of 2021 and continuing today. Since then, I have le
   
  Adepticon Golden Demo:
   - Finalist Pin in Duel
-  -test2.0
+  -test2.1
 
 
 <div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
 
   <div style="width: 33.33%; text-align: center; padding: 10px;">
-    <a href="https://www.instagram.com/p/DI2X7-FTWv4/">
-      <img src="/assets/Paintings-img/Widowmaker.jpg" alt="Widowmaker painting" width="500" height="500" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);" />
+    <a href="https://www.instagram.com/p/DI2X7-FTWv4/" target="_blank">
+      <img src="/assets/Paintings-img/Widowmaker.jpg" alt="Widowmaker painting" width="500" height="500" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2); cursor: pointer;" />
     </a>
   </div>
 
