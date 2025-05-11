@@ -105,9 +105,6 @@ avatar: assets/img/avatar.jpg
 social_preview_image: # string, local or CORS resources
 
 # boolean type, the global switch for TOC in posts.
-image_captions: false
-lightbox: false
-lazy_load: false
 toc: false
 
 comments:
