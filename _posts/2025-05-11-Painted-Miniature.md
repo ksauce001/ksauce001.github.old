@@ -33,7 +33,7 @@ I began painting around late of 2021 and continuing today. Since then, I have le
 }
 
 .instagram-grid a {
-  display: block;                /* Ensure it's treated as a block-level grid item */
+  display: block;                
   width: 100%;
   height: 250px;
   max-width: 600px;
@@ -47,7 +47,7 @@ I began painting around late of 2021 and continuing today. Since then, I have le
   width: 100%;
   height: 100%;
   object-fit: cover;
-  display: block;               /* Prevent inline spacing bugs */
+  display: block;               
 }
 
 @media (max-width: 768px) {
@@ -55,7 +55,7 @@ I began painting around late of 2021 and continuing today. Since then, I have le
     grid-template-columns: repeat(2, 1fr);
   }
 }
-}
+
 @media (max-width: 600px) {
   .instagram-grid {
     grid-template-columns: 1fr;
