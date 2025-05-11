@@ -22,7 +22,7 @@ I began painting around late of 2021 and continuing today. Since then, I have le
   
  Adepticon Golden Demo:
   - Finalist Pin in Duel
-
+Test
 
 <style>
 .instagram-grid {
@@ -50,9 +50,6 @@ I began painting around late of 2021 and continuing today. Since then, I have le
   display: block;               /* Prevent inline spacing bugs */
 }
 
-.instagram-grid img:hover {
-  transform: scale(1.03);
-}
 @media (max-width: 768px) {
   .instagram-grid {
     grid-template-columns: repeat(2, 1fr);
