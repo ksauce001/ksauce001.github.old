@@ -22,7 +22,7 @@ I began painting around late of 2021 and continuing today. Since then, I have le
   
  Adepticon Golden Demo:
   - Finalist Pin in Duel
-Test
+  - Test
 
 <style>
 .instagram-grid {
