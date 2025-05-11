@@ -33,35 +33,42 @@ I began painting around late of 2021 and continuing today. Since then, I have le
 }
 
 .instagram-grid a {
-  width: calc(33.333% - 0.67rem);
-  max-width: 700px;
-  height: auto;
+  width: 700px;
+  height: 500px;
+  max-width: 100%;
+  overflow: hidden;
+  border-radius: 8px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.15);
   display: block;
+  flex-grow: 1;
 }
 
 .instagram-grid img {
   width: 100%;
-  height: auto;
-  max-height: 500px;
+  height: 100%;
   object-fit: cover;
-  border-radius: 8px;
-  box-shadow: 0 2px 8px rgba(0,0,0,0.1);
   transition: transform 0.2s ease;
 }
 
 .instagram-grid img:hover {
-  transform: scale(1.03);
+  transform: scale(1.05);
 }
 
-@media (max-width: 768px) {
+@media (min-width: 992px) {
   .instagram-grid a {
-    width: calc(50% - 0.5rem);
+    flex-basis: calc(33.333% - 1rem);
   }
 }
 
-@media (max-width: 480px) {
+@media (max-width: 991px) {
   .instagram-grid a {
-    width: 100%;
+    flex-basis: calc(50% - 1rem);
+  }
+}
+
+@media (max-width: 600px) {
+  .instagram-grid a {
+    flex-basis: 100%;
   }
 }
 </style>
