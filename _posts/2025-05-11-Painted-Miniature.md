@@ -25,29 +25,32 @@ I began painting around late of 2021 and continuing today. Since then, I have le
 
 <style>
 .instagram-grid {
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
-  max-width: 2100px;
-  margin: auto;
+  display: flex;
+  flex-wrap: wrap;
   gap: 1rem;
-  padding-top: 1rem;
+  margin-top: 1rem;
 }
-
 .instagram-grid a {
-  display: block;
-  width: 100%;
-  max-width: 700px;
-  height: 500px;
-  overflow: hidden;
-  border-radius: 8px;
-  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.15);
-  margin: 0 auto;
+  width: calc(33.333% - 0.67rem);
 }
-
 .instagram-grid img {
   width: 100%;
-  height: 100%;
-  object-fit: cover;
+  border-radius: 8px;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+  transition: transform 0.2s ease;
+}
+.instagram-grid img:hover {
+  transform: scale(1.03);
+}
+@media (max-width: 768px) {
+  .instagram-grid a {
+    width: calc(50% - 0.5rem);
+  }
+}
+@media (max-width: 480px) {
+  .instagram-grid a {
+    width: 100%;
+  }
 }
 </style>
 
