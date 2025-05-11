@@ -25,41 +25,39 @@ I began painting around late of 2021 and continuing today. Since then, I have le
   
 
 
-<div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
-  <div style="width: 33.33%; text-align: center; padding: 10px;">
-    <a href="https://www.instagram.com/p/DI2X7-FTWv4/">
-      <img src="/assets/Paintings-img/Widowmaker.jpg" alt="Widowmaker painting" width="500" height="500" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);" />
-    </a>
-  </div>
-
-  <div style="width: 33.33%; text-align: center; padding: 10px;">
-    <a href="https://www.instagram.com/p/DD7NYHDJB6V/">
-      <img src="/assets/Paintings-img/Oyasu.jpg" alt="Oyasu painting" width="500" height="500" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);" />
-    </a>
-  </div>
-
-  <div style="width: 33.33%; text-align: center; padding: 10px;">
-    <a href="https://www.instagram.com/p/Cwvpa-jy2kl/">
-      <img src="/assets/Paintings-img/Umeka.jpg" alt="Umeka painting" width="500" height="500" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);" />
-    </a>
-  </div>
-
-  <div style="width: 33.33%; text-align: center; padding: 10px;">
-    <a href="https://www.instagram.com/p/CuPlPH8x9SC/">
-      <img src="/assets/Paintings-img/Ava.png" alt="Ava painting" width="500" height="500" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);" />
-    </a>
-  </div>
-
-  <div style="width: 33.33%; text-align: center; padding: 10px;">
-    <a href="https://www.instagram.com/p/Cr_cdNzpd2T/">
-      <img src="/assets/Paintings-img/Byakko.png" alt="Byakko painting" width="500" height="500" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);" />
-    </a>
-  </div>
-
-  <div style="width: 33.33%; text-align: center; padding: 10px;">
-    <a href="https://www.instagram.com/p/CekG7x0p5si/">
-      <img src="/assets/Paintings-img/Tomoe.png" alt="Tomoe painting" width="500" height="500" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);" />
-    </a>
-  </div>
-
-</div>
+<table border="0">
+  <tr>
+    <td align="center">
+      <a href="https://www.instagram.com/p/DI2X7-FTWv4/" target="_blank">
+        <img src="/assets/Paintings-img/Widowmaker.jpg" alt="Widowmaker" width="300" height="300">
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.instagram.com/p/DD7NYHDJB6V/" target="_blank">
+        <img src="/assets/Paintings-img/Oyasu.jpg" alt="Oyasu" width="300" height="300">
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.instagram.com/p/Cwvpa-jy2kl/" target="_blank">
+        <img src="/assets/Paintings-img/Umeka.jpg" alt="Umeka" width="300" height="300">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://www.instagram.com/p/CuPlPH8x9SC/" target="_blank">
+        <img src="/assets/Paintings-img/Ava.png" alt="Ava" width="300" height="300">
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.instagram.com/p/Cr_cdNzpd2T/" target="_blank">
+        <img src="/assets/Paintings-img/Byakko.png" alt="Byakko" width="300" height="300">
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.instagram.com/p/CekG7x0p5si/" target="_blank">
+        <img src="/assets/Paintings-img/Tomoe.png" alt="Tomoe" width="300" height="300">
+      </a>
+    </td>
+  </tr>
+</table>
