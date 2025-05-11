@@ -22,10 +22,8 @@ I began painting around late of 2021 and continuing today. Since then, I have le
   
  Adepticon Golden Demo:
   - Finalist Pin in Duel
-  - Testv1.7
+  
 
-
-## Clickable Images in Columns of 3 (500x500)
 
 <div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
 
