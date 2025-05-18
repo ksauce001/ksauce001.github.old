@@ -9,4 +9,8 @@ tags:
   - PS5
   - PC
 ---
+
+### Completion
+
+Date: 05-16-2025
 ![img](/assets/game-achievements/e33.jpg)
