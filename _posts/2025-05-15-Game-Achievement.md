@@ -9,5 +9,4 @@ tags:
   - PS5
   - PC
 ---
-
-![img](\\asset\game-achievements\e33.jpg)
+![img](/assets/game-achievements/e33.jpg)
