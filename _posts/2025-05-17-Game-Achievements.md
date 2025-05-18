@@ -1,5 +1,6 @@
 ---
 title: "Video Game Achievements"
+date: 2025-05-17 07:00:00 +0800
 show_date: false
 categories: 
   - Video Game Achievements
@@ -8,6 +9,8 @@ tags:
   - Achievements
   - PS5
   - PC
+published: true
+description: Lists of my 100% Completed Games
 ---
 
 ### Completion
