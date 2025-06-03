@@ -58,7 +58,7 @@ I began painting around late of 2021 and continuing today. Since then, I have le
 
   <div style="width: 33.33%; text-align: center; padding: 10px;">
     <a href="https://www.instagram.com/p/CekG7x0p5si/">
-      <img src="/assets/Paintings-img/Tomoe.png" alt="Tomoe painting" width="500" height="500" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);" />
+      <img src="/assets/Paintings-img/Tomoe.png" alt="Tomoe painting" width="300" height="300" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);" />
     </a>
   </div>
 
