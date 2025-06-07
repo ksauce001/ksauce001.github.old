@@ -12,16 +12,16 @@ order: 4
 - 📝 I write blog on various hobby related topics, feel free to take a look.
 
 ### PC Specs
-CASE: Hyte Y70 Case w/ Touch Infinity
-Motherboard: Asus Prime B650M-A AX6
-CPU: AMD Ryzen 7 9700X
-CPU Frame: AM5 Secure Frame V2 Black
-GPU:
-AIO: TRYX Panorama SE 360 ARGB 360mm
-SSD: 4TB WD_Black SN850X NVMe, Samsung 990 pro 1 TB NVMe, Samsung 990 pro 250gb NVMe
-HDD: 8TB Seagate BarraCuda x2
-MEMORY: Trident Z5 Neo RGB DDR5  6000 32GB CL30 AMD Expo x2
-FANS: Lian Li UNI Fan SL - LCD Wireless 120 (Reverse and Standard)
+CASE: Hyte Y70 Case w/ Touch Infinity<br>
+Motherboard: Asus Prime B650M-A AX6<br>
+CPU: AMD Ryzen 7 9700X<br>
+CPU Frame: AM5 Secure Frame V2 Black<br>
+GPU:<br>
+AIO: TRYX Panorama SE 360 ARGB 360mm<br>
+SSD: 4TB WD_Black SN850X NVMe, Samsung 990 pro 1 TB NVMe, Samsung 990 pro 250gb NVMe<br>
+HDD: 8TB Seagate BarraCuda x2<br>
+MEMORY: Trident Z5 Neo RGB DDR5  6000 32GB CL30 AMD Expo x2<br>
+FANS: Lian Li UNI Fan SL - LCD Wireless 120 (Reverse and Standard)<br>
 Others: Hyte Powered Usb Hub, LS10 qRGB Light Strips w/ NP50
 
 ### Console
