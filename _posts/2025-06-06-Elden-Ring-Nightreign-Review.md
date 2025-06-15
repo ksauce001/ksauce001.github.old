@@ -8,6 +8,7 @@ tags:
   - Elden Ring
   - Game Review
   - PS5
+  - PC
   - blog
 published: true
 description: Fight together or die together, gather your friends or stranger and challenge the Nightlords.
