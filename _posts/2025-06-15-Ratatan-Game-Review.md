@@ -13,3 +13,9 @@ tags:
 published: true
 description: Pata Pata into Ratatan rhythm and fight your way in a whole new adventure.
 ---
+
+![img](/assets/Game-Review-img/Ratatan/1.png)
+
+WIP
+
+
