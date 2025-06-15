@@ -29,4 +29,4 @@ PS5, Steam Deck, Asus ROG Strix Gaming Laptop, Nintendo Switch
 
 ### Socials
 Check out my official publish game review: https://mp1st.com/author/alexander
-🤝 You can connect with me on <a href="https://www.linkedin.com/in/it-alex/" target="_blank" rel="noopener noreferrer">LinkedIn</a>, <a href="https://x.com/CyberTechSauce" target="_blank" rel="noopener noreferrer">X/Twitter</a> and <a href="https://discordapp.com/users/219300292347297793" target="_blank" rel="noopener noreferrer">Discord</a>
+🤝 You can connect with me on <a href="https://www.linkedin.com/in/it-alex/" target="_blank" rel="noopener noreferrer">LinkedIn</a> and <a href="https://discordapp.com/users/219300292347297793" target="_blank" rel="noopener noreferrer">Discord</a>
