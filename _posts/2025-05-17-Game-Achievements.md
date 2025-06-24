@@ -17,3 +17,7 @@ description: Lists of my 100% Completed Games
 
 Date: 05-16-2025
 ![img](/assets/game-achievements/e33.jpg)
+
+Date: 06-21-2025
+![img](/assets/game-achievements/ER.jpg)
+
