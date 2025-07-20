@@ -26,6 +26,24 @@ I began painting around late of 2021 and continuing today. Since then, I have le
 <a href="https://www.instagram.com/ksauce001/" target="_blank" rel="noopener noreferrer">My Instagram</a>
 
 <div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
+<div style="width: 33.33%; text-align: center; padding: 10px;">
+    <a href="https://www.instagram.com/p/DLxm8XVJ_DO/">
+      <img src="/assets/Paintings-img/Rubi.jpg" alt="Rubi" width="500" height="500" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);" />
+    </a>
+  </div>
+
+  <div style="width: 33.33%; text-align: center; padding: 10px;">
+    <a href="">
+      <img src="" alt="" width="500" height="500" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);" />
+    </a>
+  </div>
+
+  <div style="width: 33.33%; text-align: center; padding: 10px;">
+    <a href="">
+      <img src="" alt="" width="500" height="500" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);" />
+    </a>
+  </div>
+
   <div style="width: 33.33%; text-align: center; padding: 10px;">
     <a href="https://www.instagram.com/p/DI2X7-FTWv4/">
       <img src="/assets/Paintings-img/Widowmaker.jpg" alt="Widowmaker painting" width="500" height="500" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);" />
