@@ -17,10 +17,10 @@ I began painting around late of 2021 and continuing today. Since then, I have le
  - Masterclass: Gold in 32mm miniature
  - Masterclass: Bronze in 72 mm miniature
 
- Kublacon:
+ Kublacon (San Jose):
   - Gold in 32mm miniature
   
- Adepticon Golden Demo:
+ Adepticon Golden Demon (Chicago):
   - Finalist Pin in Duel
   
 <a href="https://www.instagram.com/ksauce001/" target="_blank" rel="noopener noreferrer">My Instagram</a>
