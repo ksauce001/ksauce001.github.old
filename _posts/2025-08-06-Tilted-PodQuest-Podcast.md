@@ -1,6 +1,6 @@
 ---
 title: "Podcast"
-show_date: false
+date: 2025-08-06 07:00:00 +0800
 categories: 
   - Podcast
 tags: 
@@ -10,6 +10,8 @@ tags:
   - gaming news
   - tech news
   - others
+published: true
+description: Join us on our podcast of games and other hobbies news.
 toc: false
 ---
 
